@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% capture my-include %}{% include intro.md %}{% endcapture %}
+  {{ my-include | markdownify }}
+  
+  <h1 class="page-heading">Presenters: 2016</h1>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>FotW presenter</th>
+      <th>FotW topic</th>
+      <th>Code presenter</th>
+      <th>Code topic</th>
+    </tr>
+    {% for meeting in site.data.topics2016 %}
+    <tr>
+      <td><span style="white-space: nowrap;">{{meeting.date}}</span></td>
+      <td>{{meeting.fotw_presenter}}</td>
+      <td>{{meeting.fotw_topic}}</td>
+      <td>{{meeting.code_presenter}}</td>
+      <td>{{meeting.code_topic}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

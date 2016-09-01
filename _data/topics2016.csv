@@ -1,0 +1,32 @@
+date,fotw_presenter,fotw_topic,code_presenter,code_topic
+2016-01-06,Annie Chen,mutate/within (R),Aubrey Bailey,16S reports (R)
+2016-01-13,Chris Nobles,grep/which/match (R),Anatoly Dryga,Genomic features report (R)
+2016-01-20,Ceylan Tanes,Selection operators (R),Kyle Bittinger,registry webpage (PHP)
+2016-02-03,Christel Chehoud,Mavis (R),Yinghua Wu,multihits (R)
+2016-02-10,Anatoly Dryga,sapply/lapply (R),Erik Clarke,snakemake (Python)
+2016-02-17,Jane Schulte,map (Python),Bradley Wubbenhorst,assert (Python)
+2016-03-02,Brendan Kelly,broom (R),Arwa Abbas,bowtie2 (bash)
+2016-03-09,Aubrey Bailey,inotifywait (bash),Scott Sherrill-Mix,ampCountPy (Python)
+2016-04-06,Kyle Bittinger,dist (R),Annie Chen,Blood cultures analysis (R)
+2016-04-13,Alexandra Bryson,dput (R),Ceylan Tanes,WGS report (R)
+2016-04-27,Anatoly Dryga,lm (R),Chris Nobels,contamCheck (R)
+2016-05-04,Kyle Bittinger,seqremote (Python),Erik Clarke,onecodex_pipeline (Python)
+2016-05-11,Christel Chehoud,Binomial distribution,Anatoly Dryga,Binomial coefficients
+2016-05-18,Arwa Abbas,dnaplotr (R),Kyle Bittinger,apply/sweep (R)
+2016-05-25,Simon Kelow,hcluster (Python),Aubrey Bailey,subcolor_pal (R)
+2016-06-01,Erik Clarke,conda (shell),Brendan Kelly,LOO cross validation (R)
+2016-06-08,John Everett,itertools.groupby (Python),Jane Schulte, 
+2016-06-15,Scott Sherrill-Mix,gzip (R),Kyle Bittinger,Intro to git
+2016-06-29,Annie Chen, ,Mark Goulian,Image processing (LabView)
+2016-07-06,Yue Ren, ,Ceylan Tanes, 
+2016-07-27,Chunyu Zhao, ,Jane Schulte, 
+2016-08-03,Aubrey Bailey, ,John Everett, 
+2016-08-10, ,NO MEETING, , 
+2016-08-17, ,NO MEETING, , 
+2016-08-24, ,NO MEETING, , 
+2016-08-31,Brendan Kelly, ,Arwa Abbas, 
+2016-09-07,Chris Nobles, ,Scott Sherrill-Mix, 
+2016-09-14, , ,Erik Clarke, 
+2016-09-21, , ,Chunyu Zhao, 
+2016-09-28, , ,Annie Chen, 
+2016-10-05, , ,Yue Ren, 
