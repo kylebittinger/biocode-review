@@ -17,8 +17,8 @@ title: Bioinformatics code review group
 email: kylebittinger@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Bioinformatics code review group
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/biocode-review" # the subpath of your site, e.g. /blog
+url: "http://kylebittinger.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
