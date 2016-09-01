@@ -1,26 +1,30 @@
-Schedule: Wednesdays 9-10AM at Johnson Pavilion 209
+*Schedule:* Wednesdays 9-10AM at Johnson Pavilion 209
 
-Format:
+*Format:*
 
-Function/library of the week
+* Function/library of the week
 
-FotW presenter will tell us about any useful function or library and give a brief example on how to use it. Bonus points for running an example live! Maximum 10-15 minutes.
+  FotW presenter will tell us about any useful function or library and give a brief example on how to use it. Bonus points for running an example live! Maximum 10-15 minutes.
 
-Code review
+* Code review
 
-Code presenter will send out a code selection on Monday by lab meeting time. The ideal body of code for a review session is 100 lines long, with clear start and end points. You do not need to be the author of 100% of the code. It should be from a project that you are working on currently.
+  Code presenter will send out a code selection on Monday by lab
+  meeting time. The ideal body of code for a review session is 100
+  lines long, with clear start and end points. You do not need to be
+  the author of 100% of the code. It should be from a project that you
+  are working on currently.
 
-Presenters list: Kyle, Aubrey, Erik, Ceylan, Chunyu, Yue, Scott, and Chris. Others please email me if you would like to present.
+*Presenters list:* Kyle, Aubrey, Erik, Ceylan, Chunyu, Yue, Scott, and Chris. Others, please email Kyle if you would like to present.
 
-Rules: No slides allowed! Please do not waste time making a presentation. Let's just look at the code and talk.
+*Rules:* No slides allowed! Please do not waste time making a presentation. Let's just look at the code and talk.
 
-For presenters: In your email, include a link to a Git or SVN repository where the code lives (code can be attached to the email if needed). In the email, also describe the motivation for this segment of code, your goals for writing the software, and the expected input/output.
+*For presenters:* In your email, include a link to a Git or SVN repository where the code lives (code can be attached to the email if needed). In the email, also describe the motivation for this segment of code, your goals for writing the software, and the expected input/output.
 
-For reviewers: Please read the code before the review meeting. See checklist below for some things to consider.
+*For reviewers:* Please read the code before the review meeting. See checklist below for some things to consider.
 
-For everyone: I will do my best to foster a positive and motivating environment where we work together to learn from each other and improve our craft. Please talk to me or Rick privately if you feel like this is ever not the case.
+*For everyone:* I will do my best to foster a positive and motivating environment where we work together to learn from each other and improve our craft. Please talk to me or Rick privately if you feel like this is ever not the case.
 
-Checklist for code review:
+*Checklist for code review:*
 
 * Tests: Does the code have any tests? If not, are examples of input/output provided?
 * Functions: Are functions/methods taking the right type of arguments? Does the function return one type of result? Are functions and methods able to be easily tested?

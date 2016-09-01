@@ -28,6 +28,25 @@ layout: default
     {% endfor %}
   </table>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <h1 class="page-heading">Presenters: 2015</h1>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>FotW presenter</th>
+      <th>FotW topic</th>
+      <th>Code presenter</th>
+      <th>Code topic</th>
+    </tr>
+    {% for meeting in site.data.topics2015 %}
+    <tr>
+      <td><span style="white-space: nowrap;">{{meeting.date}}</span></td>
+      <td>{{meeting.fotw_presenter}}</td>
+      <td>{{meeting.fotw_topic}}</td>
+      <td>{{meeting.code_presenter}}</td>
+      <td>{{meeting.code_topic}}</td>
+    </tr>
+    {% endfor %}
+  </table>
 
 </div>
