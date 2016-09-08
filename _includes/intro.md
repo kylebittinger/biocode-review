@@ -14,7 +14,7 @@
   the author of 100% of the code. It should be from a project that you
   are working on currently.
 
-*Presenters list:* Kyle, Aubrey, Erik, Ceylan, Chunyu, Scott, and Chris. Others, please email Kyle if you would like to present.
+*Presenters list:* Kyle, Aubrey, Erik, Ceylan, Chunyu, Scott, John, and Chris. Others, please email Kyle if you would like to present.
 
 *Rules:* No slides allowed! Please do not waste time making a presentation. Let's just look at the code and talk.
 
