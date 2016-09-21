@@ -18,8 +18,8 @@ date,fotw_presenter,fotw_topic,code_presenter,code_topic
 2016-06-08,John Everett,itertools.groupby (Python),Jane Schulte,Process LabView output (Python)
 2016-06-15,Scott Sherrill-Mix,gzip (R),Kyle Bittinger,Intro to git
 2016-06-29,Annie Chen,list.files/Reduce (R),Mark Goulian,Image processing (LabView)
-2016-07-06,Yue Ren, ,Ceylan Tanes,dplyr::select/filter (R)
-2016-07-27,Chunyu Zhao, ,Jane Schulte,Reading data files (R)
+2016-07-06,Yue Ren,separate (R),Ceylan Tanes,dplyr::select/filter (R)
+2016-07-27,Chunyu Zhao,group_by/summarise (R),Jane Schulte,Reading data files (R)
 2016-08-03,Aubrey Bailey,GNU parallel (bash),John Everett,INSPIIRED demultiplexing (R) 
 2016-08-31,Brendan Kelly,stack (R),Arwa Abbas,t.test (R)
 2016-09-07,Chris Nobles,Making a package (R),Scott Sherrill-Mix,vipor (R) 
