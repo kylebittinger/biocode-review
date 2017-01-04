@@ -7,6 +7,31 @@ layout: default
   {% capture my-include %}{% include intro.md %}{% endcapture %}
   {{ my-include | markdownify }}
   
+  <h1 class="page-heading">Presenters: 2017</h1>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Module presenter</th>
+      <th>Module topic</th>
+      <th>Fotw presenter</th>
+      <th>Fotw topic</th>
+      <th>Code presenter</th>
+      <th>Code topic</th>
+    </tr>
+    {% for meeting in site.data.topics2017 %}
+    <tr>
+      <td><span style="white-space: nowrap;">{{meeting.date}}</span></td>
+      <td>{{meeting.module_presenter}}</td>
+      <td>{{meeting.module_topic}}</td>
+      <td>{{meeting.fotw_presenter}}</td>
+      <td>{{meeting.fotw_topic}}</td>
+      <td>{{meeting.code_presenter}}</td>
+      <td>{{meeting.code_topic}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
   <h1 class="page-heading">Presenters: 2016</h1>
 
   <table>
