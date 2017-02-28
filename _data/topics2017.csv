@@ -3,12 +3,12 @@ date,module_presenter,module_topic,fotw_presenter,fotw_topic,code_presenter,code
 2017-01-18,John Gregg,ODEs,--,--,Chunyu Zhao, Sunbeam (Python)
 2017-01-25,Ceylan Tanes,ODEs,--,--,Jesse Connell,
 2017-02-01,Arwa Abbas,Visualization,--,--,Kevin McCormick,
-2017-02-08,Erik Clarke,Visualization,--,--,Louis Taylor,
+2017-02-08,Erik Clarke,Visualization,--,--,Kyle Bittinger,GNU Screen
 2017-02-15,Chunyu Zhao,Monte Carlo methods,Brendan Kelly,,--,--
-2017-02-22,Scott Sherrill-Mix,STAN tutorial,Simon Kelow,,--,--
-2017-03-01,--,--,???,,Arwa Abbas,
+2017-02-22,Scott Sherrill-Mix,STAN tutorial,Simon Kelow,difflib (Python),--,--
+2017-03-01,Scott Sherrill-Mix,STAN tutorial 2,--,--,Arwa Abbas,Viral genomics (R/Python/bash)
 2017-03-08,John Everett,Testing,--,--,Kyle Bittinger,
-2017-03-15,Kevin McCormick,Testing,???,,--,--
+2017-03-15,Kevin McCormick,Testing,--,--,Louis Taylor,
 2017-03-22,Kyle Bittinger,Testing,--,--,Chris Nobles,Gene therapy
 2017-03-29,Ceylan Tanes,Linear algebra,--,--,John Everett,Gene therapy
 2017-04-05,Kyle Bittinger,Linear algebra,--,--,Scott Sherrill-Mix,
