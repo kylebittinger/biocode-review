@@ -8,9 +8,9 @@ date,module_presenter,module_topic,fotw_presenter,fotw_topic,code_presenter,code
 2017-02-22,Scott Sherrill-Mix,STAN tutorial,Simon Kelow,difflib (Python),--,--
 2017-03-01,Scott Sherrill-Mix,STAN tutorial 2,--,--,Arwa Abbas,Viral genomics (R/Python/bash)
 2017-03-08,John Everett,Testing,--,--,Kyle Bittinger,usedist (R)
-2017-03-15,Kevin McCormick,Testing,--,--,Louis Taylor,
-2017-03-22,Kyle Bittinger,Testing,--,--,Chris Nobles,Gene therapy
-2017-03-29,Ceylan Tanes,Linear algebra,--,--,John Everett,Gene therapy
-2017-04-05,Kyle Bittinger,Linear algebra,--,--,Scott Sherrill-Mix,
-2017-04-12,John Everett,Regular expressions,--,--,Varun Aggarwalla,
-2017-04-19,Jesse Connell,Regular expressions,--,--,Ceylan Tanes
+2017-03-22,Kevin McCormick,Testing,--,--,Louis Taylor,
+2017-04-05,Kyle Bittinger,Testing,--,--,Chris Nobles,Gene therapy
+2017-04-12,Ceylan Tanes,Linear algebra,--,--,John Everett,Gene therapy
+2017-04-19,Kyle Bittinger,Linear algebra,--,--,Scott Sherrill-Mix,
+2017-04-26,John Everett,Regular expressions,--,--,Varun Aggarwalla,
+2017-05-03,Jesse Connell,Regular expressions,--,--,Ceylan Tanes
