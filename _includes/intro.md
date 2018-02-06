@@ -14,8 +14,6 @@
   the author of 100% of the code. It should be from a project that you
   are working on currently.
 
-*Presenters list:* Kyle, Aubrey, Erik, Ceylan, Chunyu, Scott, John, and Chris. Others, please email Kyle if you would like to present.
-
 *Rules:* No slides allowed! Please do not waste time making a presentation. Let's just look at the code and talk.
 
 *For presenters:* In your email, include a link to a Git or SVN repository where the code lives (code can be attached to the email if needed). In the email, also describe the motivation for this segment of code, your goals for writing the software, and the expected input/output.
