@@ -4,10 +4,9 @@ date,fotw_presenter,fotw_topic,code_presenter,code_topic
 2018-02-21,Louis Taylor,Intro to Conda (bash),Arwa Abbas,Genome coverge plots (R)
 2018-02-28,Kyle Bittinger,Machine learning: Gaussian mixture models (R),John Everett,Zika CRISPR analysis (R)
 2018-03-14,Louis Taylor & Chris Nobles,,Scott Sherrill-Mix,
-2018-03-21,Varun Aggarwalla,,Kevin McCormick,
-2018-03-28,Chris Nobles,,Ceylan Tanes,
-2018-04-04,Chunyu Zhao,Machine learning topic,Jesse Connell,
-2018-04-11,Erik Clarke,Machine learning topic,Varun Aggarwalla,
+2018-03-21,Varun Aggarwalla,ETE3 toolkit,Kevin McCormick,
+2018-04-04,Chunyu Zhao,Nanoflow (Python),Jesse Connell,Chiimp (R)
+2018-04-11,Kyle Bittinger,Machine learning topic,Ceylan Tanes,
 2018-04-18,Ceylan Tanes,Machine learning topic,Louis Taylor,
 2018-04-25,Arwa Abbas,,Jung-Jin Lee,
 2018-05-02,John Everett,,Chris Nobles,
