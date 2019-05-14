@@ -1,26 +1,43 @@
-*Schedule:* Wednesdays 9-10AM at Johnson Pavilion 209
+*Schedule:* Wednesdays 9:30-10:30AM at Johnson Pavilion 209
 
 *Format:*
 
-* Function/library of the week
+* Function/library of the week (15 minutes)
 
-  FotW presenter will tell us about any useful function or library and give a brief example on how to use it. Bonus points for running an example live! Maximum 10-15 minutes.
+  The goal of this segment is to share a useful function or library
+  with the group and give a brief example on how to use it. Bonus
+  points for running an example live!
 
-* Code review
+* Code review (40 minutes)
 
-  Code presenter will send out a code selection on Monday by lab
-  meeting time. The ideal body of code for a review session is 100
-  lines long, with clear start and end points. You do not need to be
-  the author of 100% of the code. It should be from a project that you
-  are working on currently.
+  The goal of this segment is to review an ongoing, unfinished
+  programming project and receive helpful feedback from the group.
+  Ideally, the presenter will be able to utilize the group's advice to
+  generate forward progress on the project.
 
-*Rules:* No slides allowed! Please do not waste time making a presentation. Let's just look at the code and talk.
+  The code presented should be less than 100 lines long. Presenters
+  are encouraged to show "problem spots," or unfinished areas of the
+  program, where they could benefit from peer suggestions and
+  guidance.
 
-*For presenters:* In your email, include a link to a Git or SVN repository where the code lives (code can be attached to the email if needed). In the email, also describe the motivation for this segment of code, your goals for writing the software, and the expected input/output.
+*Rules:* No slides allowed! Please do not waste time making a
+ presentation. Instead, please show the code directly, either in an
+ editor or on GitHub.
 
-*For reviewers:* Please read the code before the review meeting. See checklist below for some things to consider.
+*For presenters:* Presenters are asked to email the code to the group
+ on the Monday before the presentation.  Please link to the code in
+ its repository (preferred), or attach to the email.  In the email,
+ please describe the motivation for this segment of code, your goals
+ for writing the software, and the expected input/output.
 
-*For everyone:* I will do my best to foster a positive and motivating environment where we work together to learn from each other and improve our craft. Please talk to me or Rick privately if you feel like this is ever not the case.
+*For reviewers:* Please read the code before the review meeting. See
+ checklist below for some things to consider.
+
+*For everyone:* I will do my best to foster a positive and motivating
+ environment where we work together to learn from each other and
+ improve our craft. Please talk to me privately if you feel like this
+ is ever not the case. You may also contact Rick Bushman if you are
+ uncomfortable coming to me directly.
 
 *Checklist for code review:*
 
