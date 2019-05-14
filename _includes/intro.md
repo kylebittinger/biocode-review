@@ -2,7 +2,7 @@
 
 *Format:*
 
-* Function/library of the week (15 minutes)
+* Function of the week (15 minutes)
 
   The goal of this segment is to share a useful function or library
   with the group and give a brief example on how to use it. Bonus
